@@ -1,4 +1,1 @@
-# example
-main()
-{
-}
+#include<stdio.h>
